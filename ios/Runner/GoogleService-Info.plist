@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>829182005735-reepmdoh83krb4rfj9pj725o0m5glmhj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.829182005735-reepmdoh83krb4rfj9pj725o0m5glmhj</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>829182005735-3qe28ltjoedst9p1v1dkpu8q2naj7t9a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCEIT32BRyGGj3klwsICiK0mdfG41T6FCU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>829182005735</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.webstage.annonces</string>
+	<key>PROJECT_ID</key>
+	<string>pierre-notifs</string>
+	<key>STORAGE_BUCKET</key>
+	<string>pierre-notifs.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:829182005735:ios:c854b9fd1998a12fc0ad42</string>
+	<key>DATABASE_URL</key>
+	<string>https://pierre-notifs-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

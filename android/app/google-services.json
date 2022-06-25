@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "829182005735",
+    "firebase_url": "https://pierre-notifs-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "pierre-notifs",
+    "storage_bucket": "pierre-notifs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829182005735:android:8bce444cf45c1307c0ad42",
+        "android_client_info": {
+          "package_name": "com.webstage.annonces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829182005735-djkruetj37im8iv0gd90f2nleurpbim1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.webstage.annonces",
+            "certificate_hash": "1598b64bacaee5fc344ac565937c0b65adb30c61"
+          }
+        },
+        {
+          "client_id": "829182005735-vev3hlcui3ga3jofi8gfkmbkto95ct96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3bD-D4KDbHpLBQbjmIJ9fJZoyNEQokX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829182005735-vev3hlcui3ga3jofi8gfkmbkto95ct96.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "829182005735-joal285kadp1t64rs1luahckgpto8bkn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.webstage.notifs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
